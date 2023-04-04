@@ -10,6 +10,6 @@
 
 - The styling would be less shit.
 
-** Comments **
+**Comments**
 
 - I had to make some minor changed to the BE to get the API to run properly. From my minimal google research I believe it's because i'm running python 3 rather than python 2. Might be worth looking into this for future candidates.
